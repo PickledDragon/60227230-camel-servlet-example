@@ -30,7 +30,7 @@
   <properties>
     <camel.version>2.25.0</camel.version>
     <jetty9-version>9.4.26.v20200117</jetty9-version>
-    <log4j.version>2.16.0</log4j.version>
+    <log4j.version>2.17.0</log4j.version>
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
   </properties>
